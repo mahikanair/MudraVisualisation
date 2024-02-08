@@ -31,3 +31,5 @@ This function takes a frame from the video feed, saves it as a temporary image f
 
 ### box_maker(mhl, h, w)
 This function processes the detected hand landmarks (mhl) using the MediaPipe library. It calculates the bounding box coordinates for the hands in the frame. The coordinates are normalized and then converted to the absolute dimensions of the frame. The function returns the coordinates for both the rectangular box and the square box around the Region of Interest (ROI).
+
+## Note: To run the video detection directly, all you need is the VideoYOLO.ipynb and 
