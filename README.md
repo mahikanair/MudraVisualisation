@@ -1,5 +1,7 @@
 # MudraVisualisation
 
+This project focuses on building a hand gesture recognition system, specifically targeting Indian classical dance mudras. The notebooks and scripts provided in this repository guide you through the process of collecting, preprocessing, training, and evaluating a model for recognizing these intricate hand movements in real-time video.
+
 ## collect_imgs.py
 
 This script captures images from a live video feed using OpenCV. It allows the user to collect a dataset of hand images for various classes. The number of classes (n), images per class (dataset_size), and other parameters can be adjusted.
