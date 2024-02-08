@@ -35,7 +35,7 @@ There are 30 Indian Classical Mudras being classified here (the Asamyukta mudras
 30. Trishula
 
 
-## collect_imgs.py
+## collect_imgs.py (credits: https://www.youtube.com/watch?v=MJCSjXepaAM)
 
 This script captures images from a live video feed using OpenCV. It allows the user to collect a dataset of hand images for various classes. The number of classes (n), images per class (dataset_size), and other parameters can be adjusted.
 
@@ -47,7 +47,7 @@ This script uses the MediaPipe library to crop hand images captured by the colle
 
 This script takes the cropped hand images from the image_cropper.py script and creates horizontally flipped versions. The flipped images are saved with a 'flipped_' prefix in the same directory.
 
-## YOLO_model.ipynb
+## YOLO_model.ipynb (credit: https://docs.ultralytics.com/tasks/classify/#models)
 
 This Jupyter notebook demonstrates the usage of the Ultralytics YOLO (You Only Look Once) framework for training a model on hand images. It uses a pre-trained YOLO model and fine-tunes it on a specified dataset, showing how to train the model for a certain number of epochs and image size.
 
