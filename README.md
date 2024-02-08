@@ -2,6 +2,38 @@
 
 This project focuses on building a hand gesture recognition system, specifically targeting Indian classical dance mudras. The notebooks and scripts provided in this repository guide you through the process of collecting, preprocessing, training, and evaluating a model for recognizing these intricate hand movements in real-time video.
 
+There are 30 Indian Classical Mudras being classified here (the Asamyukta mudras):
+1. Pataka
+2. Tripataka
+3. Ardhapataka
+4. Kartarimukha
+5. Mayura
+6. Ardhachandra
+7. Arala
+8. Shukatunda
+9. Mushthi
+10. Shikhara
+11. Kapitha
+12. Katakamukha-1
+13. Katakamukha-2
+14. Katakamukha-3
+15. Suchi
+16. Chandrakala
+17. Padmakosha
+18. Sarpashisha
+19. Mrighashisha
+20. Singhamukha
+21. Kangula
+22. Alapadma
+23. Chatura
+24. Bhrahmara
+25. Hamsasya
+26. Hamsapaksha
+27. Santamsha
+28. Mukula
+29. Tamrachuda
+30. Trishula
+
 
 ## collect_imgs.py
 
